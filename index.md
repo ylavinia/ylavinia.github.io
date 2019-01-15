@@ -1,5 +1,6 @@
+## Yukhe Lavinia
 
-Hi, I'm Yukhe (pronounced "you-key"). I'm a software engineer with a background in machine learning and deep learning. I have done research on convolutional neural networks, computer vision, and the Internet of Things on 6LoWPAN. I am currently working as a software engineer building music school portal application.
+Hi, I'm Yukhe. I'm a software engineer with a background in machine learning and deep learning. I have done research on convolutional neural networks, computer vision, and the Internet of Things on 6LoWPAN. I am currently working as a software engineer building music school portal application.
 
 ### Education
 - Master of Science, Computer Science, California State University, Fullerton, CA
