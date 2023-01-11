@@ -1,4 +1,4 @@
-## Yukhe Lavinia
+Yukhe Lavinia
 
 ### About
 I'm a machine learning practitioner with research experience in weak supervised learning, Internet measurement, convolutional neural networks, computer vision, and the Internet of Things on 6LoWPAN. 
